@@ -27,7 +27,7 @@ header{
 }
 
 nav{
-    background-color: #6abd50;
+    background-color: #72ab6a;
     padding: 10px;
 }
 div#navegacao{
@@ -68,16 +68,18 @@ section{
 div#lista{
     list-style: none;
     border: 1px solid black;
-    margin: 10px;
+    margin: 0px;
     border-radius: 10px;
 }
 div#lista h3{
+    list-style: none;
     color: #54684e;
     font-weight: bold;
     text-align: center;
 }
 div#lista p{
     text-align: center;
+    padding-bottom: 5px;
 }
 
 
