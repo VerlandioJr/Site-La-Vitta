@@ -85,7 +85,9 @@ div#lista p{
 }
 
 div#img12{
-    background-image: url('../Site-La-Vitta/imagem/12.jpeg');
+    background-image: url('../Site-La-Vitta/imagem/12.1.jpeg');
+    background-position: center;
+    background-size: cover;
 }
 
 
