@@ -46,7 +46,7 @@ a{
 }
 
 main{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 100%;
 }
 section{
@@ -67,6 +67,15 @@ section{
     padding: 5px;
 }
 
+div#fechada{
+    background-color: rgba(0, 0, 0, 0.505);
+    height: 250px;
+}
+
+div#fechada h2{
+    color: #6abd50;
+}
+
 div#lista{
     list-style: none;
     border: 1px solid black;
@@ -84,10 +93,19 @@ div#lista p{
     padding-bottom: 5px;
 }
 
-div#img12{
-    background-image: url('../Site-La-Vitta/imagem/12.1.jpeg');
-    background-position: center;
+.imagem{
+    width: 100%;
+    margin: 2px;
+    background-color: rgb(30, 27, 27);
+    color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(17, 17, 17, 0.803);
     background-size: cover;
+    background-attachment: fixed;
+}
+
+div#img12{
+    background-image:url('./imagem/12.1.jpeg');
+    height: 250px;
 }
 
 
