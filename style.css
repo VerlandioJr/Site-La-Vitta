@@ -66,20 +66,10 @@ section{
     padding: 5px;
 }
 
-div#fechada{
-    background-color: rgba(0, 0, 0, 0.505);
-    height: 300px;
-    font-size: 1em;
-}
-
-div#fechada h2{
-    color: #6abd50;
-}
-
 div#lista{
     list-style: none;
     border: 1px solid black;
-    margin: 0px;
+    margin-bottom: 5px;
     border-radius: 10px;
     text-align: center;
     
