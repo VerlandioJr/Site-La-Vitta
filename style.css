@@ -51,16 +51,16 @@ a{
     text-decoration: none;
 }
 
-main{
+main iframe{
     background-color: rgb(255, 255, 255);
     width: 100%;
-}
-section{
-    overflow: hidden;
+    height: 100vh;
+    overflow: auto;
 }
 
 .conteudo{
     padding: 10px;
+    height: auto;
 }
 .conteudo h2{
     padding-bottom: 5px;
