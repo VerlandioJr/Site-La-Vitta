@@ -69,7 +69,8 @@ section{
 
 div#fechada{
     background-color: rgba(0, 0, 0, 0.505);
-    height: 250px;
+    height: 300px;
+    font-size: 1em;
 }
 
 div#fechada h2{
@@ -103,9 +104,16 @@ div#lista p{
     background-attachment: fixed;
 }
 
+div#img3{
+    background-image: url('./imagem/3.1.jpeg');
+    background-position: center;
+    height: 300px;
+}
+
 div#img12{
     background-image:url('./imagem/12.1.jpeg');
-    height: 250px;
+    background-position: center right;
+    height: 300px;
 }
 
 
