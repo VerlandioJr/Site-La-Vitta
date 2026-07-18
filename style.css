@@ -50,12 +50,11 @@ main{
     width: 100%;
 }
 section{
-    margin: 5px;
     overflow: hidden;
 }
 
 .conteudo{
-    padding: 15px;
+    padding: 10px;
 }
 .conteudo h2{
     padding-bottom: 5px;
@@ -96,10 +95,9 @@ div#lista p{
 
 .imagem{
     width: 100%;
-    margin: 2px;
     background-color: rgb(30, 27, 27);
     color: white;
-    box-shadow: inset 6px 6px 13px 0px rgba(17, 17, 17, 0.803);
+    box-shadow: 2px rgba(17, 17, 17, 0.803);
     background-size: cover;
     background-attachment: fixed;
 }
