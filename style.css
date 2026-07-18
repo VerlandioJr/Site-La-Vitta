@@ -17,6 +17,9 @@
 }
 body{
     background-color: rgb(255, 255, 255);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 header{
@@ -106,7 +109,6 @@ div#img12{
 
 
 footer{
-    padding: 5px;
     background-color: black;
     color: white;
     text-align: center;
