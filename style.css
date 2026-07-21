@@ -122,6 +122,20 @@ div#img12{
     height: 300px;
 }
 
+div#cardapio{
+    width: 70%;
+    height: 40px;
+    background-color: #720808;
+    margin: 0px 0px 5px 55px;
+    border: 1px solid rgba(0, 0, 0, 0.345);
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
+a#link{
+    color: white;
+}
 
 footer{
     background-color: black;
