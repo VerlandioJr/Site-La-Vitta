@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* Typical Device Breakpoints
+-----------------------------
+small screens: until 600px
+smartphones: from 600px until 768px
+Tablet: 768px until 992px
+Desktop: 992px until 1200px
+Large Desktop: over 1200px
+*/
+
+@media screen and (min-width: 768px) {
+    
+nav{
+    background-color: #72ab6a;
+    padding: 0px;
+}
+div#navegacao{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+}
+div.item{
+    border: 1px solid white;
+    flex: auto;
+}
+a{
+    padding: 2px;
+    color: black;
+    text-decoration: none;
+}
+}
