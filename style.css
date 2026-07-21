@@ -77,6 +77,13 @@ div#principal{
     padding: 5px;
 }
 
+strong{
+    color: #72ab6a;
+}
+strong.produto{
+    color: #720808;
+}
+
 div#lista{
     list-style: none;
     border: 1px solid black;
