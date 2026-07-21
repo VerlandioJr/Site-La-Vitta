@@ -104,13 +104,13 @@ div#lista p{
 }
 
 div#img3{
-    background-image: url('./imagem/3.1.jpeg');
+    background-image: url('./imagemmobile/3.1.jpeg');
     background-position: center;
     height: 300px;
 }
 
 div#img12{
-    background-image:url('./imagem/12.1.jpeg');
+    background-image:url('./imagemmobile/12.1.jpeg');
     background-position: center right;
     height: 300px;
 }
