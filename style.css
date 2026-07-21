@@ -137,6 +137,37 @@ a#link{
     color: white;
 }
 
+div#contato{
+    display: block;
+    margin: 20px;
+    text-align: center;
+}
+
+div#contato li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+div#contato img{
+    border-radius: 10px;
+    width: 70px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.336);
+    box-sizing: border-box;
+}
+
+div#contato img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.61);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
+    transition: transform 0.5s, border 1s;
+}
+
+div#local{
+    display: block;
+    margin: 5px;
+}
+
 footer{
     background-color: black;
     color: white;
