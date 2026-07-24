@@ -30,10 +30,11 @@ header{
     padding: 30px;
     text-align: center;
     background-color: white;
-    color: #283324;
+    color: #54684e;
 }
 header h1{
     font-size: 3em;
+    text-shadow: 10px 0px 2px #69975952;
 }
 
 nav{
